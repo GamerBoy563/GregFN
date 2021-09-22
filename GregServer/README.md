@@ -1,4 +1,4 @@
-# CumServer
+# GregServer
 1) Install [NodeJS](https://nodejs.org/en/)
 2) Run "install_packages.bat" (This file isn't required after the packages are installed.)
 3) Run "start.bat", It should say "Started listening on port 3551"
